@@ -94,30 +94,35 @@ th,td {
 .textEdit{
     color:#ffffff;
     text-align: center;
-    margin-top: 7%;
+    margin-top: 11%;
+    font-size: 150%;
 }
 
 .bodyText{
     color:#000000;
     text-align: center;
-    margin-top: 30%;
+    margin-top: 35%;
+    font-size:130%;
 }
 
 .form{
-   margin-top:17%;
+   margin-top:10%;
    width:80%;
    justify-content: center;
    right:25%;
 }
 
-.messageInput{
-    justify-content: center;
-   
-   
-}
-
 .emailInput{
    justify-content: center;
+}
+
+#messageInput{
+    margin-left: 11.5%;
+    
+}
+
+#messageHead{
+    padding-left:11.5%;
 }
 
 .form-label{
